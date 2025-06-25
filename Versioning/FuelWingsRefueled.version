@@ -1,6 +1,6 @@
 {
   "NAME": "FuelWingsRefueled",
-  "URL": "https://raw.githubusercontent.com/munktron239/FuelWings-Refueled/refs/heads/main/FuelWingsRefueled.version",
+  "URL": "https://raw.githubusercontent.com/munktron239/FuelWings-Refueled/refs/heads/main/Versioning/FuelWingsRefueled.version",
   "DOWNLOAD": "https://github.com/munktron239/FuelWings-Refueled/releases",
   "VERSION": {
     "MAJOR": 1,
