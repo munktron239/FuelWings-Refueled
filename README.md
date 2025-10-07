@@ -1,6 +1,7 @@
 ## FuelWings Refueled: A successor to FuelWings
 
 - FuelWings originally made by [@diygary](https://github.com/diygary) (AKA Tortoise), later adopted by [@linuxgurugamer](https://github.com/linuxgurugamer), and finally remastered by me, [@munktron239](https://github.com/munktron239)
+- How to use this mod: Simply build your plane, select which wing pieces you want to have fuel in, and choose your desired fuel type! See wings.png for exact fuel values.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
