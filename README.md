@@ -50,4 +50,5 @@
 - [@diygary](https://github.com/diygary) for creating the original FuelWings mod way back during the golden days of KSP.
 - [@linuxgurugamer](https://github.com/linuxgurugamer) for adopting FuelWings, and for inspiring me to create my own version.
 - [@JadeOfMaar](https://github.com/jadeofmaar) for basically rewriting the entire mod for me, and for helping out in general.
+- [@Dalewyn](https://github.com/Dalewyn) for assisting with PatchManager.
 - You! For making it to the very end of this README file. Thanks for checking it out!
