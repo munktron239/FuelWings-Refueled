@@ -25,9 +25,9 @@
 
 ## Drawbacks
 
-- For wings that already have fuel (Big-S Delta Wing, FAT-455 Aeroplane Main Wing, etc), B9 changes the dry mass/cost by a small amount.
-- If you decide to use fuel in these wings, performance will be (ever-so-slightly) worse than in stock.
-- Because of this, this patch affecting these wings is disabled by default. If PatchManager is installed, then you can enable it in-game.
+- For parts that already have fuel (Big-S Delta Wing, FAT-455 Aeroplane Main Wing, NCS Adapter, etc.), B9 changes the dry mass/cost by a small amount.
+- If you decide to use fuel in these parts, performance will be (ever-so-slightly) worse than in stock.
+- Because of this, patches affecting these parts are disabled by default. If PatchManager is installed, then you can enable them in-game.
 - Currently no support for B9ProceduralWings. This may change in future versions, though.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
@@ -39,9 +39,9 @@
 - (Optional) [PatchManager](https://forum.kerbalspaceprogram.com/topic/163072-112x-patchmanager/)
 - (Optional) [CommunityResourcePack](https://forum.kerbalspaceprogram.com/index.php?/topic/83007-*)
 - (Optional) [CryoTanks](https://forum.kerbalspaceprogram.com/topic/195042-112x-cryotanks-liquid-hydrogen-storage-and-management-aug-13-2024/)
-- If PatchManager is installed, fuel switches for the Big-S/FAT-455 wings can be enabled in-game.
+- If PatchManager is installed, fuel switches for the Big-S/FAT-455 wings and NCS Adapter can be enabled in-game.
 - If CRP is installed, LiquidHydrogen and Hydrolox fuel switches will be available.
-- If CryoTanks is installed, cryogenic fuel types will require EC cooling.
+- If CryoTanks is installed, cryogenic fuel types will require EC cooling. The NCS Adapter will also not be patched by FuelWings-Refueled even if its patch is activated.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
